@@ -1,0 +1,41 @@
+div{
+    font-size: 23px;
+    font-family: 'times New';
+    font-style:italic;
+    
+}
+#mydiv{
+    color:blue;
+    background-color:yellow;
+    border: 2px solid red;
+    padding: 10px;
+    margin: 20px;
+}
+.myclass{
+    color:green;
+    background-color:orange;
+    border-bottom: 25px dotted rgb(135, 83, 83);
+    border-radius: 03%;
+    padding: 10px;
+    margin: 20px;
+}
+#mylist{
+    
+    background-color:yellow;
+    
+}
+.sample{
+    display: block;
+    text-align: center;
+    background-image: url(../image/download\ \(1\).jpeg);
+    background-position: center;
+    background-size: cover;
+    box-decoration: border-box;
+    border: 2px solid red;
+    box-shadow: 10px 10px 25px #d51212;
+}
+*{
+    background-image: url(../image/download.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
